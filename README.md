@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Aayush Dhungel<strong> and I'm a <i>web3</i> and <i>blockchain</i> enthusiast.</p>
+<p align="left">My name is <strong>Aayush Dhungel</strong> and I'm a <i>web3</i> and <i>blockchain</i> enthusiast.</p>
 
 ###
 
