@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Aayush Dhungel</strong> and I'm a <i>web3</i> and <i>blockchain</i> enthusiast.</p>
+<p align="left">My name is <strong>Aayush Dhungel</strong> and I'm a <i>web3</i> and <i>blockchain </i>enthusiast.</p>
 
 ###
 
@@ -28,6 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
