@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" height="40" alt="github logo"  />
 <img width="12" />
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" height="40" alt="cypress logo"  />
+  <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" height="40" alt="cypress logo"  />
 </div>
 
 ###
