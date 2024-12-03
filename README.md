@@ -67,6 +67,12 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" height="40" alt="reactjs logo"  />
   <img width="12" />
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="40" alt="express.js logo"  />
+  <img width="12" />
+  <img src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px-300x200.png" height="40" alt="rest api logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="40" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
